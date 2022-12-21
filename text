@@ -1,0 +1,200 @@
+// // document.addEventListener("DOMContentLoaded", function() {
+// const list = document.querySelector("#movie-list ul");
+// const form = document.form;
+
+// // delete movie
+// list.style.backgroundColor = "lightgreen"
+// list.addEventListener("click", (e) => {
+//     if (e.target.className == "delete") {
+//         // const li = e.target.parentElement;
+//         li.parentNode.removeChild(li);
+//     }
+// });
+
+// console.log(e)
+
+
+
+
+   // if (textField.length > 5) {
+    //     listItem.textContent = " ";
+    //     console.log('hey')
+    // } else {
+    //     listItem.textContent = textField;
+    //     console.log('cool')
+    // }
+    // if (textField.length = " ") {
+    //     listItem.textContent = " ";
+    //     console.log('hey')
+    // } else {
+    //     listItem.textContent = textField;
+    //     console.log('cool')
+    // }
+
+// // add movie
+// const addForm = forms["add-movie"];
+// addForm.addEventListener("submit", function(e) {
+//     e.preventDefault();
+//     // })
+
+
+//     // creating elements
+//     const value = addForm.querySelector("input[type="
+//         text "]").value;
+//     const li = document.createElement("li");
+//     const movieName = document.createElement("span");
+//     const deleteBtn = document.createElement("span");
+
+
+//     // add text content
+//     movieName.textContent = "value";
+//     deleteBtn.textContent = "delete";
+
+//     // add classes
+//     movieName.classList.add("name");
+//     deleteBtn.classList.add("delete");
+
+//     // append to DOM
+
+//     li.appendChild(movieName);
+//     li.appendChild(deleteBtn);
+//     list.appendChild(li);
+
+// });
+// // })
+
+// let a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+// let b = [...a]
+// console.log(b);
+
+// function add(...nums) {
+//     console.log(nums);
+// }
+
+// add(2, 3, 4, 4, 5);
+
+// const profiles = [{
+//     name: 'Monyashaw',
+//     surname: 'Anseh',
+//     country: 'Ghana',
+//     isFairInComplexion: false
+// }, {
+//     name: 'Stackhouse',
+//     surname: 'Piru',
+//     country: 'Peru',
+//     isFairInComplexion: false
+// }, {
+//     name: 'MIke',
+//     surname: 'Esese',
+//     country: 'Botswana',
+//     isFairInComplexion: true
+// }, {
+//     name: 'Brandon',
+//     surname: 'Alec',
+//     country: 'USA',
+//     isFairInComplexion: true
+// }, {
+//     name: 'broddie',
+//     surname: 'frenc',
+//     country: 'Congo',
+//     isFairInComplexion: false
+// }, ]
+
+// console.log(profiles)
+
+// const profCountry = profiles.map(function(cont) {
+//     return cont.country
+// });
+
+// console.log(profCountry);
+
+// profiles.forEach(function(each) {
+//     console.log(each.name)
+// });
+
+// console.log(window)
+
+// const btn = document.getElementById("btn");
+// // btn.style.backgroundColor = 'pink';
+// btn.innerText = 'hi there!';
+// btn.addEventListener("click", (e) => {
+//     e.preventDefault();
+//     if (btn.innerText === 'hi there!') {
+//         btn.innerText = 'you clicked me!'
+//     } else {
+//         btn.innerText = 'hi there!'
+//     }
+//     console.log(e.target);
+// });
+
+const title = document.querySelector("#main-heading");
+title.style.color = 'red';
+
+const ul = document.querySelector('ul');
+const li1 = document.createElement('li');
+const li2 = document.createElement('li');
+const li3 = document.createElement('li');
+ul.append(li1)
+ul.append(li2)
+ul.append(li3)
+li1.innerText = 'X-men'
+li2.innerText = 'Midnight Train'
+li3.innerText = 'Truckers of Europe'
+// const deleteBtn = document.createElement('button')
+// ul.append(deleteBtn)
+// deleteBtn.innerText = 'delete'
+
+
+
+https://www.joblo.com/wp-content/uploads/2022/08/the-flash-ezra-miller-burglary.jpg
+
+  function urr() {
+        var url = 'https://www.google.com/search?q=' + textField;
+        window.open(url);
+        return url
+        window.resizeTo(0, 0);
+        window.moveTo(0, window.screen.availHeight + 10);
+    }
+
+    urr()
+
+    https://cdn.shopify.com/s/files/1/0057/3728/3618/products/108b520c55e3c9760f77a06110d6a73b_e97cf224-d57f-44e3-8477-4f5479cd746b_500x749.jpg?v=1573616089
+
+    https://cdn.shopify.com/s/files/1/0057/3728/3618/products/avengers.2436_500x749.jpg?v=1647534214
+
+    https://cdn.shopify.com/s/files/1/0057/3728/3618/products/068a90d99903ee7323fb787f83907ad9_e8644835-2b49-44e2-9e88-09ec543586f9_500x749.jpg?v=1573593865
+
+    https://cdn.shopify.com/s/files/1/0057/3728/3618/products/maui.frenchcanadianadv.ar_480x.progressive.jpg?v=1614199609
+
+    https://cdn.shopify.com/s/files/1/0057/3728/3618/products/the-batman_rl8gg0zf_e36837ed-3673-4da7-8f91-939fb3ce2d9e_500x749.jpg?v=1662131979
+
+    https://cdn.shopify.com/s/files/1/0057/3728/3618/products/the-batman_rl8gg0zf_e36837ed-3673-4da7-8f91-939fb3ce2d9e_480x.progressive.jpg?v=1662131979
+
+https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX100_CR0,0,100,148_.jpg
+
+https://www.joblo.com/wp-content/uploads/2022/10/avengers-secret-wars-michael-waldron-1002x524.jpg
+
+https://www.joblo.com/wp-content/uploads/2022/09/joblo-face-off-marvel-phase-1-2-1002x524.jpg
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    html {
+        background: blue;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    html {
+        background: black;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    html {
+        background: fuchsia;
+    }
+}
